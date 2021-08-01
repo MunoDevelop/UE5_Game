@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE5Game",
+			"Path": "C:\\Users\\user\\Documents\\Unreal Projects\\UE5Proj\\UE5_Game\\UE5Game\\Source\\UE5Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE5GameEditor",
+			"Path": "C:\\Users\\user\\Documents\\Unreal Projects\\UE5Proj\\UE5_Game\\UE5Game\\Source\\UE5GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

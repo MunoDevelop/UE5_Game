@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\user\\Documents\\Unreal Projects\\UE5Proj\\UE5_Game\\UE5Game\\Source\\UE5Game\\UE5Game.Build.cs",
+		"C:\\Users\\user\\Documents\\Unreal Projects\\UE5Proj\\UE5_Game\\UE5Game\\Source\\UE5Game.Target.cs",
+		"C:\\Users\\user\\Documents\\Unreal Projects\\UE5Proj\\UE5_Game\\UE5Game\\Source\\UE5GameEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

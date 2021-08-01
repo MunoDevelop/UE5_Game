@@ -1,0 +1,2 @@
+C:\Users\user\Documents\Unreal Projects\UE5Proj\UE5_Game\UE5Game\Intermediate\Build\Win64\UnrealEditor\Development\UE5Game\Definitions.UE5Game.h
+C:\Users\user\Documents\Unreal Projects\UE5Proj\UE5_Game\UE5Game\Source\UE5Game\UE5Game.h

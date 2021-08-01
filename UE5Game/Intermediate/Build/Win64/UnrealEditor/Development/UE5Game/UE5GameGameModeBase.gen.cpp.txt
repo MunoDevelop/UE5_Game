@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Unreal Projects\UE5Proj\UE5_Game\UE5Game\Intermediate\Build\Win64\UnrealEditor\Development\UE5Game\Definitions.UE5Game.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\user\Documents\Unreal Projects\UE5Proj\UE5_Game\UE5Game\Source\UE5Game/UE5GameGameModeBase.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameModeBase.generated.h
+C:\Users\user\Documents\Unreal Projects\UE5Proj\UE5_Game\UE5Game\Intermediate\Build\Win64\UnrealEditor\Inc\UE5Game\UE5GameGameModeBase.generated.h

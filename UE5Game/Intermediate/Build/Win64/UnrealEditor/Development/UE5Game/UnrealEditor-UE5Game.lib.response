@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE5Game.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Documents\Unreal Projects\UE5Proj\UE5_Game\UE5Game\Intermediate\Build\Win64\UE5GameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\user\Documents\Unreal Projects\UE5Proj\UE5_Game\UE5Game\Intermediate\Build\Win64\UnrealEditor\Development\UE5Game\UE5Game.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\UE5Proj\UE5_Game\UE5Game\Intermediate\Build\Win64\UnrealEditor\Development\UE5Game\UE5GameGameModeBase.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\UE5Proj\UE5_Game\UE5Game\Intermediate\Build\Win64\UnrealEditor\Development\UE5Game\UE5Game.init.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\UE5Proj\UE5_Game\UE5Game\Intermediate\Build\Win64\UnrealEditor\Development\UE5Game\UE5GameGameModeBase.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\UE5Proj\UE5_Game\UE5Game\Intermediate\Build\Win64\UnrealEditor\Development\UE5Game\Default.rc2.res"
+/OUT:"C:\Users\user\Documents\Unreal Projects\UE5Proj\UE5_Game\UE5Game\Intermediate\Build\Win64\UnrealEditor\Development\UE5Game\UnrealEditor-UE5Game.lib"
+/INCLUDE:IMPLEMENT_MODULE_UE5Game
